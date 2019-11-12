@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<video>
+  <films>
+    <id>1</id>
+    <name>Joker</name>
+    <genre>Drama</genre>
+    <director>Todd Phillips</director>
+    <duration>2h</duration>
+    <cover>joker.jpg</cover>
+    <price>50€</price>
+    <sinopsis>Arthur Fleck (Phoenix) vive en Gotham con su madre, y su única motivación en la vida es hacer reír a la gente. Actúa haciendo de payaso en pequeños trabajos, pero tiene problemas mentales que hacen que la gente le vea como un bicho raro. Su gran sueño es actuar como cómico delante del público, pero una serie de trágicos acontecimientos le hará ir incrementando su ira contra una sociedad que le ignora.</sinopsis>
+    <stars>
+      <characters>
+         <character>Joker</character>
+         <name>Joaquin Phoenix</name>
+      </characters>
+      <characters>
+         <character>Murray</character>
+         <name>Robert de Niro</name>
+      </characters>
+      <characters>
+         <character>Sophie</character>
+         <name>Zazie Beetz</name>
+      </characters>
+    </stars>
+  </films>
+  <films>
+    <id>2</id>
+    <name>Kill Bill</name>
+    <genre>Action</genre>
+    <director>Quentin Tarantino</director>
+    <duration>3h</duration>
+    <cover>kill.jpg</cover>
+    <price>60€</price>
+    <sinopsis>El día de su boda, una asesina profesional (Thurman) sufre el ataque de algunos miembros de su propia banda, que obedecen las órdenes de Bill (David Carradine), el jefe de la organización criminal. Logra sobrevivir al ataque, aunque queda en coma. Cuatro años después despierta dominada por un gran deseo de venganza.</sinopsis>
+    <stars>
+      <characters>
+         <character>La Núvia</character>
+         <name>Uma Thruman</name>
+      </characters>
+      <characters>
+         <character>Bill</character>
+         <name>David Carradine</name>
+      </characters>
+      <characters>
+         <character>O-Ren Ishii</character>
+         <name>Lucy Liu</name>
+      </characters>
+    </stars>
+  </films>
+  <films>
+    <id>3</id>
+    <name>Bohemian Rapsody</name>
+    <genre>Music</genre>
+    <director>Bryan Singer</director>
+    <duration>2h 14min</duration>
+    <cover>queen.jpg</cover>
+    <price>70€</price>
+    <sinopsis>Bohemian Rhapsody&#x27; es una celebración del grupo Queen, de su música y de su singular cantante Freddie Mercury, que desafió estereotipos para convertirse en uno de los showmans más queridos del mundo. El film plasma el meteórico ascenso de la banda al olimpo de la música a través de sus icónicas canciones y su revolucionario sonido, su crisis cuando el estilo de vida de Mercury estuvo fuera de control, y su triunfal reunión en la víspera del Live Aid, en la que Mercury, mientras sufría una enfermedad que amenazaba su vida, lidera a la banda en uno de los conciertos de rock más grandes de la historia. Refleja asimismo cómo se cimentó el legado de una banda que siempre se pareció más a una familia, y que continúa inspirando soñadores y amantes de la música hasta nuestros días</sinopsis>
+    <stars>
+      <characters>
+         <character>Freddie</character>
+         <name>Rami Malik</name>
+       </characters>
+       <characters>
+         <character>Mary</character>
+         <name>Lucy Boynton</name>
+      </characters>
+      <characters>
+         <character>Brian</character>
+         <name>Gwilym Lee</name>
+      </characters>
+    </stars>
+  </films>
+  <series>
+    <id>4</id>
+    <name>Vikings</name>
+    <genre>Action</genre>
+    <director>Michael Hirst</director>
+    <seasons>1</seasons>
+    <cover>vikings.jpg</cover>
+    <price>60€</price>
+    <sinopsis>undefined</sinopsis>
+    <stars>
+      <character>Lagertha</character>
+      <name>Katheryn Winnick</name>
+    </stars>
+    <stars>
+      <character>Ragnar</character>
+      <name>Travis Fimmel</name>
+    </stars>
+    <stars>
+      <character>Bjron</character>
+      <name>Alexander Ludwig</name>
+    </stars>
+  </series>
+  <series>
+    <id>5</id>
+    <name>Juego de Tronos</name>
+    <genre>Fantansia</genre>
+    <director>David Benioff</director>
+    <seasons>1</seasons>
+    <cover>thrones.jpg</cover>
+    <price>40€</price>
+    <sinopsis>undefined</sinopsis>
+    <stars>
+      <characters>
+         <character>Sansa Stark</character>
+         <name>Sophie Turner</name>
+      </characters>
+      <characters>
+         <character>Jon Snow</character>
+         <name>Kit Harington</name>
+      </characters>
+      <characters>
+         <character>Daenerys Targaryen</character>
+         <name>Emilia Clarke</name>
+      </characters>
+    </stars>
+  </series>
+  <series>
+    <id>6</id>
+    <name>Peaky Bliners</name>
+    <genre>Drama</genre>
+    <director>Katie Swinden</director>
+    <seasons>3</seasons>
+    <cover>peaky.jpg</cover>
+    <price>50€</price>
+    <sinopsis>undefined</sinopsis>
+    <stars>
+      <characters>
+      <character>Tommy Shelby</character>
+      <name>Cillian Murphy</name>
+    </characters>
+    <characters>
+      <character>Arthur Shelby</character>
+      <name>Paul Anderson</name>
+    </characters>
+    <characters>
+      <character>Polly Shelby</character>
+      <name>Helen McCrory</name>
+    </characters>
+    </stars>
+  </series>
+</video>
